@@ -1,5 +1,6 @@
 '''
-Desafio
+DESAFIO
+
 Rubens quer calcular e mostrar a quantidade de litros de combustível gastos em uma viagem de carro, sendo que seu carro faz 12 KM/L. 
 Como ele não sabe fazer um programa que o auxilie nessa missão, ele te pede ajuda. 
 Para efetuar o cálculo, deve-se fornecer o tempo gasto em horas na viagem e a velocidade média durante a mesma em km/h. 
@@ -15,7 +16,6 @@ Saída
 Imprima a quantidade de litros necessária para realizar a viagem, com três dígitos após o ponto decimal
 
 '''
-
 
 
 from turtle import distance
