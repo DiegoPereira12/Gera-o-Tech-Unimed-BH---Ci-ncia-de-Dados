@@ -11,3 +11,5 @@
  - Trabalhando com Datas
  - Visualização de dados
  - Análise Exploratória de dados
+ 
+ ## **Desafios Iniciais**
