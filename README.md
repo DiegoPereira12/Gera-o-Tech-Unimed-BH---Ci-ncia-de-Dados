@@ -13,3 +13,7 @@
  - Certificados obtidos durando o Bootcamp
  
 ## **Desafios Iniciais**
+
+## **Trabalhando com Lista em Python**
+ - Criação e acesso aos dados
+ - Métodos da classe list
