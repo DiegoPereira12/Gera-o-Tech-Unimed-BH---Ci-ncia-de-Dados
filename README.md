@@ -17,3 +17,6 @@
 ## **Trabalhando com Lista em Python**
  - Criação e acesso aos dados
  - Métodos da classe list
+ 
+## **Explorando Conjuntos em Python**
+ - Conjuntos
