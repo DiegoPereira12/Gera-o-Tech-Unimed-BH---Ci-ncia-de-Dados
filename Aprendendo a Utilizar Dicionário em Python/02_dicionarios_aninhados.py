@@ -6,4 +6,4 @@ contatos = {
 }
 
 telefone = contatos["giovanna@gmail.com"]["telefone"]  # "3443-2121"
-print("chappie@gmail.com")
+print(telefone)
