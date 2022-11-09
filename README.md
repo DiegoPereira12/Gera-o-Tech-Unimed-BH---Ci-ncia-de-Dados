@@ -13,6 +13,9 @@
  - Certificados obtidos durando o Bootcamp
  
 ## **Desafios Iniciais**
+ - Desafio 1
+ - Desafio 2
+ - Desafio 3
 
 ## **Trabalhando com Lista em Python**
  - Criação e acesso aos dados
@@ -23,5 +26,16 @@
  
 ## **Explorando Conjuntos em Python**
  - Conjuntos
+ 
+## **Fundamentos de ETL**
+ - Introdução para ETL
+ - Etapas para ETL
+ - Ferramenta aplicadas para ETL
+ - Introdução à biblioteca Pandas
+ - Biblioteca Pandas e suas funções
+ - Introdução à biblioteca Scikit Learn
+ - Manipulando Dados com Pandas e Python
+ - Framework Lugi para ETL com Python
+
 
 
