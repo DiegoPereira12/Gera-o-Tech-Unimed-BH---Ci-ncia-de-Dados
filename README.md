@@ -43,5 +43,10 @@
  - Criando seu primeiro Programa com POO
  - Construtores de Destrutores
 
+## **Aprendendo o Conceito de Herança com Python**
+ - Herança em POO
+ - Conceituando Herança Simples e Herança Múltipla
+ - Hands-on: Herança Simples
+ - Hands-on Herança Múltipla
 
 
