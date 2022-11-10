@@ -37,5 +37,11 @@
  - Manipulando Dados com Pandas e Python
  - Framework Lugi para ETL com Python
 
+## **Introdução à Porgramação Orientada a Objetos (POO) com Python**
+ - O que é orientação a Objetos
+ - Os conceitos de Classe e Objetos
+ - Criando seu primeiro Programa com POO
+ - Construtores de Destrutores
+
 
 
