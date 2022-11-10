@@ -49,4 +49,8 @@
  - Hands-on: Herança Simples
  - Hands-on Herança Múltipla
 
+## Conhecendo Polimorfismo em Python
+ - O que é Polimorfismo
+ - Polimorfismo com Herança
+
 
