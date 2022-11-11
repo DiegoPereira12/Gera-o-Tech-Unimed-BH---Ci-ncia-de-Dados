@@ -53,4 +53,10 @@
  - O que é Polimorfismo
  - Polimorfismo com Herança
 
+## Ampliando o conhecimento em POO
+ - Variáveis de classe e Variáveis de instância
+ - Metódos de classe e Metódos estático
+ - O que são interfaces
+ - Classes Abstratas
+
 
