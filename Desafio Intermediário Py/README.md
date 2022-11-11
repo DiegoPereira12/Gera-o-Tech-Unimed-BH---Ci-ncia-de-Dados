@@ -1,62 +1,23 @@
-# Geração Tech Unimed-BH - Ciência de Dados
+# **Desafios Intermediários** 
 
-## **Análise de dados com Python e Pandas**
- - Python Básico
- - Estrutura de dados
- - Introdução a Biblioteca Pandas
- - Trabalhando com arquivos em Excel
- - Trabalhando com Datas
- - Visualização de dados
- - Análise Exploratória de dados
+## **Desafio Alfabeto**
 
-## **Certificados**
- - Certificados obtidos durando o Bootcamp
- 
-## **Desafios Iniciais**
- - Desafio 1
- - Desafio 2
- - Desafio 3
+Desafio
+Dada a letra N do alfabeto, nos diga qual a sua posição.
 
-## **Trabalhando com Lista em Python**
- - Criação e acesso aos dados
- - Métodos da classe list
+Entrada
+Um único caracter N, uma letra maiúscula ('A'-'Z') do alfabeto (que contém 26 letras).
 
-## **Conhecendo Tuplas em Python**
- - Tuplas
- 
-## **Explorando Conjuntos em Python**
- - Conjuntos
- 
-## **Fundamentos de ETL**
- - Introdução para ETL
- - Etapas para ETL
- - Ferramenta aplicadas para ETL
- - Introdução à biblioteca Pandas
- - Biblioteca Pandas e suas funções
- - Introdução à biblioteca Scikit Learn
- - Manipulando Dados com Pandas e Python
- - Framework Lugi para ETL com Python
+Saída
+Um único inteiro, que representa a posição da letra no alfabeto.
 
-## **Introdução à Porgramação Orientada a Objetos (POO) com Python**
- - O que é orientação a Objetos
- - Os conceitos de Classe e Objetos
- - Criando seu primeiro Programa com POO
- - Construtores de Destrutores
+## **Desafio Papagaio Poliglota**
 
-## **Aprendendo o Conceito de Herança com Python**
- - Herança em POO
- - Conceituando Herança Simples e Herança Múltipla
- - Hands-on: Herança Simples
- - Hands-on Herança Múltipla
+Desafio
+Humberto tem um papagaio muito esperto. Quando está com as duas pernas no chão, o papagaio fala em português. Quando levanta a perna esquerda, fala em inglês. Por fim, quando levanta a direita fala em francês. Nico, amigo de Humberto, ficou fascinado com o animal. Em sua emoção perguntou: “E quando ele levanta as duas?”. Antes que Humberto pudesse responder, o papagaio gritou: “Aí eu caio, idiota!”.
 
-## Conhecendo Polimorfismo em Python
- - O que é Polimorfismo
- - Polimorfismo com Herança
+Entrada
+A entrada consiste de diversos casos de teste. Cada caso de teste consiste uma string informando qual a situação de levantamento de pernas do papagaio.
 
-## Ampliando o conhecimento em POO
- - Variáveis de classe e Variáveis de instância
- - Metódos de classe e Metódos estático
- - O que são interfaces
- - Classes Abstratas
-
-
+Saída
+Para cada condição de levantamento de pernas do papagaio, imprima a linguagem que ele utilizará. Caso ele levante ambas as pernas, imprima “caiu”. Quebre uma linha a cada caso de teste.
