@@ -59,4 +59,10 @@
  - O que são interfaces
  - Classes Abstratas
 
+## Desafios Intermediário Py
+ - Desafio Alfabeto
+ - Desafio Papagaio Poliglota
+ - Desafio Aumento Salarial
+
+
 
