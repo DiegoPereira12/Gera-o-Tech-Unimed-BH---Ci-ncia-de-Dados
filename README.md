@@ -49,22 +49,24 @@
  - Hands-on: Herança Simples
  - Hands-on Herança Múltipla
 
-## Conhecendo Polimorfismo em Python
+## **Conhecendo Polimorfismo em Python**
  - O que é Polimorfismo
  - Polimorfismo com Herança
 
-## Ampliando o conhecimento em POO
+## **Ampliando o conhecimento em POO**
  - Variáveis de classe e Variáveis de instância
  - Metódos de classe e Metódos estático
  - O que são interfaces
  - Classes Abstratas
 
-## Desafios Intermediário Py
+## **Desafios Intermediário Py**
  - Desafio Alfabeto
  - Desafio Papagaio Poliglota
  - Desafio Aumento Salarial
 
-## Descomplicando a criação de pacotes de processamento de imagens em Python
+## **Descomplicando a criação de pacotes de processamento de imagens em Python**
+
+## **Criando modelos com Python e Machine Learning para prever a evolução do COVID-19 no Brasil**
 
 
 
