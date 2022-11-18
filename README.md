@@ -67,6 +67,14 @@
 ## **Descomplicando a criação de pacotes de processamento de imagens em Python**
 
 ## **Criando modelos com Python e Machine Learning para prever a evolução do COVID-19 no Brasil**
-
+ - Importando informações do CSV
+ - Formatando as informações importadas
+ - Criando o primeiro gráfico dos dados selecionados
+ - Usando lambda para identificar novos casos confirmados por dia
+ - Cálculo de taxa de crescimento médio de cados confirmados no Brasil
+ - Estabelecendo a taxa de crescimento diário
+ - Realizando cálculos de predições
+ - Modelando os dados com biblioteca ARIMA
+ - Modelo de crescimento com biblioteca fbprophet
 
 
